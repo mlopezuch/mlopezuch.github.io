@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33795b2c.css",
+    "main.js": "/static/js/main.26524dbf.js",
+    "static/media/teamptu.png": "/static/media/teamptu.d8db2ec5403d23053d5b.png",
+    "static/media/twitter-clon.png": "/static/media/twitter-clon.d12f45b1c12b3fac0c30.png",
+    "static/media/teamptu5.png": "/static/media/teamptu5.a5c1158dc414df7395e7.png",
+    "static/media/teamptu6.png": "/static/media/teamptu6.cd13582b41dea07a9511.png",
+    "static/media/teamptu3.png": "/static/media/teamptu3.694ebe8324820f5b3c43.png",
+    "static/media/yo2.jpg": "/static/media/yo2.85e78f995ff2115e199d.jpg",
+    "static/media/teamptu2.png": "/static/media/teamptu2.2a9da0ddc39f212d4ccb.png",
+    "static/media/teamptu4.png": "/static/media/teamptu4.9f481951f51567a8ea00.png",
+    "static/media/mongodb.png": "/static/media/mongodb.7e9e266b082c65e9df28.png",
+    "static/media/express.png": "/static/media/express.bb80425d48f835d6fb64.png",
+    "static/media/react.png": "/static/media/react.894796ea295415831bc2.png",
+    "static/media/node.png": "/static/media/node.37ab2ba4116bd039590f.png",
+    "static/media/js.png": "/static/media/js.75220e22aacfddc29275.png",
+    "static/media/git.png": "/static/media/git.f3bf64c6993a8bc6d451.png",
+    "static/media/socketio.png": "/static/media/socketio.b7f564c49c5bd4e043c7.png",
+    "static/media/css.png": "/static/media/css.02d225c7df0b28341d8d.png",
+    "index.html": "/index.html",
+    "main.33795b2c.css.map": "/static/css/main.33795b2c.css.map",
+    "main.26524dbf.js.map": "/static/js/main.26524dbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33795b2c.css",
+    "static/js/main.26524dbf.js"
+  ]
+}
